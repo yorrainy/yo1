@@ -1,0 +1,45 @@
+header{
+
+background-color:azure;
+color: #000
+
+}
+
+.pesquisa{
+
+display: flex ;
+justify-content: space-between;
+
+}
+
+
+
+.preta{
+
+width: 350px;
+align-items: center;
+
+}
+
+.calçajeans{
+
+width: 350px;
+align-items: center;
+}
+
+.blusa{
+
+    width: 350px;
+align-items: center;
+
+}
+.calçalarga{
+
+align-items: center;
+    width: 350px;
+}
+.home{
+text-align: center;
+align-items: center;
+    
+}
